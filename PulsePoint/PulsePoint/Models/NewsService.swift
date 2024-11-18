@@ -15,7 +15,7 @@ protocol NewsServiceProtocol {
 final class NewsService: NewsServiceProtocol {
     // MARK: - Constants
     private static let baseURL = "https://newsapi.org/v2/top-headlines"
-    private static let apiKey = "d8a003e8cbfd439cb490f4bb0900cf50"
+    private static let apiKey = "YOUR_API_KEY_HERE"
 
     // MARK: - Properties
     private let session: URLSession

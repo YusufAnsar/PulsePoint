@@ -1,6 +1,6 @@
 # PulsePoint
 
-A PulsePoint is a news app based on the latest SwiftUI 5 that fetches latest news from newsapi.org targeting iOS 17+.
+A PulsePoint is a news app based on the latest SwiftUI 5 and Combine that fetches latest news from newsapi.org targeting iOS 17+.
 
 ## Features
 The app has several main features:
